@@ -1,5 +1,5 @@
 # 💫 About Me:
-computer programmer<br>☢️ waste student ☢️
+computer programmer<br>☢️ waste student ☢️<br>YıldızCTI{Güvercinleri_Severim!?}
 
 
 # 💻 Tech Stack:
